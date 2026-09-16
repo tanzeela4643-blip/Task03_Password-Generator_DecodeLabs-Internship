@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-A Python command-line Password Generator developed as part of the SYNENT
-Technology Internship. It creates a random password using uppercase and
+A Python command-line Password Generator developed as part of the 
+Decodelabs Internship. It creates a random password using uppercase and
 lowercase letters, digits, and special characters.
 
 ## Objective
